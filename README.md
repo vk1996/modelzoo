@@ -1,5 +1,6 @@
 # modelzoo
-Hey guys i'm open sourcing some of our DNN models built for specific internal POC purpose
+This model is a small scale infrastructure crack detector trained . Don't expect any SOA.
+
 Copyright 2019 ROOT
 
 Licensed under the Apache License, Version 2.0 (the "License");
